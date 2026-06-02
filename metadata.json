@@ -1,0 +1,6 @@
+{
+  "name": "LQ45 Predictor",
+  "description": "System Pro Analisis & Prediksi Saham LQ45 Bursa Efek Indonesia",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
